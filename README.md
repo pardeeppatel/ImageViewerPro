@@ -3,6 +3,10 @@
 **ImageViewerPro** is a fast, modern, and feature-rich image viewer and editor built for macOS using **SwiftUI** and **AppKit**.  
 Designed for creators, photographers, and anyone who works with images, it offers fullscreen viewing, editing, text overlays, and stunning filters — all in one intuitive interface.
 
+🧑‍💻 Built by [Pardeep Patel](https://github.com/pardeeppatel)  
+🌐 Showcased on [ToolNPlay.com](https://tools.toolnplay.com)  
+🚀 Listed on [GetProjects.org](https://getprojects.org/imageviewerpro-open-source-macos-image-viewer-editor-built-with-swiftui/)
+
 ---
 
 ## ✨ Features
@@ -78,7 +82,7 @@ Designed for creators, photographers, and anyone who works with images, it offer
 
 ## 👨‍💻 Author
 
-Developed by [**Pardeep Patel**](https://github.com/pardeeppatel)  
+Developed by [**Pardeep Patel**](https://pardeeppatel.com)  
 🔗 Project page: [ToolNPlay.com](https://ToolNPlay.com)
 
 ---
