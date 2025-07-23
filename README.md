@@ -21,6 +21,21 @@ Designed for creators, photographers, and anyone who works with images, it offer
 
 ## 📸 Screenshots
 
+> Actual UI previews from the macOS app
+
+### Main Interface
+![Main Interface](Assets/ImageViewerPro001.png)
+
+### Browse Image
+![Crop Tool](Assets/ImageViewerPro002.png)
+
+### Full Screen View
+![Editing View](Assets/ImageViewerPro003.png)
+
+### Edit Tools
+![Text Overlay](Assets/ImageViewerPro004.png)
+
+
 
 ---
 
